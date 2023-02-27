@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/iNotebook-add-your-notes/static/css/main.598a6723.css",
+    "main.js": "/iNotebook-add-your-notes/static/js/main.4928ac52.js",
+    "index.html": "/iNotebook-add-your-notes/index.html",
+    "main.598a6723.css.map": "/iNotebook-add-your-notes/static/css/main.598a6723.css.map",
+    "main.4928ac52.js.map": "/iNotebook-add-your-notes/static/js/main.4928ac52.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.598a6723.css",
+    "static/js/main.4928ac52.js"
+  ]
+}
